@@ -1,6 +1,8 @@
 # Croquet Australia
 
-This repository, [croquet-australia](https://github.com/croquet-australia/croquet-australia), contains an overview of all Croquet Australia repositories & services. This branch,  `phase2/master` is the current development branch.
+This repository, [croquet-australia](https://github.com/croquet-australia/croquet-australia), contains an overview of all Croquet Australia repositories & services. 
+
+This branch, `phase2/master`, is the current development branch.
 
 ## Repositories
 
